@@ -1,2 +1,2 @@
 # projetos-java
-Meus projetos Java referentes à faculdade
+Meus projetos Java referentes às aulas da faculdade
